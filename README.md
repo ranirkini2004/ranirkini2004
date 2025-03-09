@@ -22,3 +22,6 @@
 ---
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/rani_kini_17)
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/rani_kini?theme=dark&font=Abel&ext=contest)
+
