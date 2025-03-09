@@ -19,3 +19,6 @@
 ![Rani Kini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranirkini2004&show_icons=true&theme=radical)
 -
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranirkini2004&theme=github) 
+---
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/rani_kini_17)
