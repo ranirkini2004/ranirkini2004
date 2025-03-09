@@ -16,4 +16,4 @@ No-Code Platforms: FlutterFlow ⚡
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranirkini2004&layout=compact&theme=radical)
 ![Rani Kini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranirkini2004&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranirkini2004=github)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranirkini2004theme=github)  
