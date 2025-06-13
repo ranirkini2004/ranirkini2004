@@ -12,7 +12,7 @@
 -Web Development 🌐 (HTML, CSS, JavaScript)  
 -Programming Languages: C, Python 🐍  
 -Databases: MongoDB, MySQL, Firebase 🗄️  
--No-Code Platforms: FlutterFlow ⚡ 
+-No-Code Platforms: FlutterFlow ⚡
 
 ---
 
