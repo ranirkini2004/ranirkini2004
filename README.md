@@ -9,8 +9,8 @@
 ---
 
 ## Technical Skills and Interests👍  
--Web Development 🌐 (HTML, CSS, JavaScript)  
--Programming Languages: C, Python 🐍  
+-Web Development 🌐 HTML, CSS, JavaScript, React 
+-Programming Languages: C, Python 🐍 , Java 
 -Databases: MongoDB, MySQL, Firebase 🗄️  
 -No-Code Platforms: FlutterFlow ⚡
 
@@ -19,5 +19,4 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranirkini2004&theme=github) 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rani_kini?theme=dark&font=Abel&ext=contest)
 
