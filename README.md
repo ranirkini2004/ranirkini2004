@@ -21,4 +21,13 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranirkini2004&theme=github) 
 ---
 
+### 📊 GitHub Stats:
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranirkini2004&show_icons=true&theme=tokyonight)
+
+### 🔥 Streak Stats:
+![GitHub Streak](https://streak-stats.demolab.com/?user=ranirkini2004&theme=tokyonight)
+
+### 🚀 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranirkini2004&layout=compact&theme=tokyonight)
+
 
