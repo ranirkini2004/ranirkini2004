@@ -50,6 +50,15 @@
 </p>
 
 ---
+### 👀 Profile views  
+![Profile Views](https://komarev.com/ghpvc/?username=ranirkini2004&color=blue)
+
+---
+
+### 🏆 GitHub Profile Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ranirkini2004&theme=onedark&column=7)
+
+---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranirkini2004&theme=github) 
 ---
