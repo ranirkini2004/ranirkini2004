@@ -45,7 +45,7 @@
 - 🌐 Web Development  
 - 🤖 AI Tools & Automation  
 - 📊 Machine Learning Projects  
-- 💡 Hackathons & Innovation  
+- 💡 Hackathons & Innovation
 
 ---
 
@@ -93,11 +93,11 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/rani-ramanath-kini-424050263/)">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:rani.kini.17@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
 
